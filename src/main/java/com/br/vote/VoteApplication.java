@@ -1,5 +1,6 @@
 package com.br.vote;
 
+import com.br.vote.model.Pauta;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -9,5 +10,6 @@ public class VoteApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(VoteApplication.class, args);
 	}
+
 
 }

@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class VoteController {
 
 
-    @GetMapping("/")
+    @GetMapping("/vote")
     public  String index(){
         return "deded";
     }

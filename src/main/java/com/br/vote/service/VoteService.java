@@ -20,11 +20,6 @@ public class VoteService {
     public Vote create( Vote vote){
         return voteRepository.save(vote);
     }
-    @DeleteMapping
-    public  Vote findByid(Long id){
-       return voteRepository.findBy(id);
-    }
-    
 
 
 
