@@ -23,4 +23,5 @@ public class Pauta implements Serializable {
     @Column(name = "DESCRICAO",nullable = false)
     private String descricao;
 
+
 }
