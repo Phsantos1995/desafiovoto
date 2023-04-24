@@ -29,7 +29,7 @@ public class SwaggerConfig {
         ApiInfo apiInfo = new ApiInfo( "Voto ", "Voto API REST.", "1.0.0",
                 "Terms of Service", new Contact( "Pedro Henrique",
                 "https://github.com/Phsantos1995",
-                "mag.junior@hotmail.com" ),
+                "thunder.pedro@hotmail.com" ),
                 "Apache License Version 2.0",
                 "https://www.apache.org/licesen.html",
                 new ArrayList< VendorExtension >( ) );
